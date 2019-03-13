@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1689fbc7-f87b-4134-a5f7-419892c0fb0f" name="Default Changelist" comment="" />
+    <list default="true" id="1689fbc7-f87b-4134-a5f7-419892c0fb0f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/app/tests/ExercisePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/app/tests/HamcrestMatchersDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/app/tests/PathAndQueryParamAPIHomework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/app/tests/PathParamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/app/tests/BaseURIDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/app/tests/BaseURIDemo.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/SimpleRestDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="50" column="54" lean-forward="true" selection-start-line="50" selection-start-column="54" selection-end-line="50" selection-end-column="54" />
+            <state relative-caret-position="692">
+              <caret line="50" column="54" selection-start-line="50" selection-start-column="54" selection-end-line="50" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,11 +41,61 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/BaseURIDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/PathParamExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/PathAndQueryParamAPIHomework.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="58" lean-forward="true" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/HamcrestMatchersDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/ExercisePractice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="31" column="56" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,12 +112,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/app/tests/SimpleRestDemo.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/app/tests/BaseURIDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/app/tests/ExercisePractice.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/app/tests/PathParamExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/app/tests/PathAndQueryParamAPIHomework.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/app/tests/HamcrestMatchersDemo.java" />
       </list>
     </option>
   </component>
@@ -70,12 +135,24 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="24" />
-    <option name="y" value="25" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="rest-assured-project" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="23" />
+    <option name="y" value="66" />
     <option name="width" value="1440" />
     <option name="height" value="832" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -123,7 +200,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552168117039" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552433881851" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -141,8 +218,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BaseURIDemo.citiesTest">
-    <configuration name="BaseURIDemo.citiesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PathAndQueryParamAPIHomework.getASingleUser">
+    <configuration name="PathAndQueryParamAPIHomework.getASingleUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="restassuredproject" />
       <extension name="coverage">
         <pattern>
@@ -151,14 +228,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.app.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.app.tests.BaseURIDemo" />
-      <option name="METHOD_NAME" value="citiesTest" />
+      <option name="MAIN_CLASS_NAME" value="com.app.tests.PathAndQueryParamAPIHomework" />
+      <option name="METHOD_NAME" value="getASingleUser" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaseURIDemo.culturesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PathAndQueryParamAPIHomework.listUserRepo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="restassuredproject" />
       <extension name="coverage">
         <pattern>
@@ -167,14 +244,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.app.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.app.tests.BaseURIDemo" />
-      <option name="METHOD_NAME" value="culturesTest" />
+      <option name="MAIN_CLASS_NAME" value="com.app.tests.PathAndQueryParamAPIHomework" />
+      <option name="METHOD_NAME" value="listUserRepo" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleRestDemo.headersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PathParamExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="restassuredproject" />
       <extension name="coverage">
         <pattern>
@@ -183,14 +260,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.app.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.app.tests.SimpleRestDemo" />
-      <option name="METHOD_NAME" value="headersTest" />
+      <option name="MAIN_CLASS_NAME" value="com.app.tests.PathParamExample" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PathParamExample.getCharacterById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restassuredproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.app.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.app.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.app.tests.PathParamExample" />
+      <option name="METHOD_NAME" value="getCharacterById" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleRestDemo.statusLineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PathParamExample.getCharacterByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="restassuredproject" />
       <extension name="coverage">
         <pattern>
@@ -199,24 +291,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.app.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.app.tests.SimpleRestDemo" />
-      <option name="METHOD_NAME" value="statusLineTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleRestDemo.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="restassuredproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.app.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.app.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.app.tests.SimpleRestDemo" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="com.app.tests.PathParamExample" />
+      <option name="METHOD_NAME" value="getCharacterByName" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -224,11 +300,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BaseURIDemo.citiesTest" />
-        <item itemvalue="JUnit.BaseURIDemo.culturesTest" />
-        <item itemvalue="JUnit.SimpleRestDemo.statusLineTest" />
-        <item itemvalue="JUnit.SimpleRestDemo.headersTest" />
-        <item itemvalue="JUnit.SimpleRestDemo.test1" />
+        <item itemvalue="JUnit.PathAndQueryParamAPIHomework.getASingleUser" />
+        <item itemvalue="JUnit.PathAndQueryParamAPIHomework.listUserRepo" />
+        <item itemvalue="JUnit.PathParamExample" />
+        <item itemvalue="JUnit.PathParamExample.getCharacterById" />
+        <item itemvalue="JUnit.PathParamExample.getCharacterByName" />
       </list>
     </recent_temporary>
   </component>
@@ -246,39 +322,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SimpleRestDemo_test1 - 2019.03.09 at 15h 38m 26s.xml">
-      <configuration name="SimpleRestDemo.test1" configurationId="JUnit" />
+    <history-entry file="PathParamExample - 2019.03.10 at 15h 32m 35s.xml">
+      <configuration name="PathParamExample" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SimpleRestDemo_test1 - 2019.03.09 at 15h 38m 43s.xml">
-      <configuration name="SimpleRestDemo.test1" configurationId="JUnit" />
+    <history-entry file="PathAndQueryParamAPIHomework_getASingleUser - 2019.03.12 at 13h 45m 09s.xml">
+      <configuration name="PathAndQueryParamAPIHomework.getASingleUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SimpleRestDemo_test1 - 2019.03.09 at 15h 39m 11s.xml">
-      <configuration name="SimpleRestDemo.test1" configurationId="JUnit" />
+    <history-entry file="PathAndQueryParamAPIHomework_getASingleUser - 2019.03.12 at 13h 47m 59s.xml">
+      <configuration name="PathAndQueryParamAPIHomework.getASingleUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SimpleRestDemo_headersTest - 2019.03.09 at 15h 50m 43s.xml">
-      <configuration name="SimpleRestDemo.headersTest" configurationId="JUnit" />
+    <history-entry file="PathAndQueryParamAPIHomework_getASingleUser - 2019.03.12 at 13h 49m 17s.xml">
+      <configuration name="PathAndQueryParamAPIHomework.getASingleUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SimpleRestDemo_headersTest - 2019.03.09 at 15h 55m 41s.xml">
-      <configuration name="SimpleRestDemo.headersTest" configurationId="JUnit" />
+    <history-entry file="PathAndQueryParamAPIHomework_listUserRepo - 2019.03.12 at 13h 56m 04s.xml">
+      <configuration name="PathAndQueryParamAPIHomework.listUserRepo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SimpleRestDemo_statusLineTest - 2019.03.09 at 16h 25m 14s.xml">
-      <configuration name="SimpleRestDemo.statusLineTest" configurationId="JUnit" />
+    <history-entry file="PathAndQueryParamAPIHomework_getASingleUser - 2019.03.12 at 14h 23m 30s.xml">
+      <configuration name="PathAndQueryParamAPIHomework.getASingleUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SimpleRestDemo_statusLineTest - 2019.03.09 at 16h 25m 58s.xml">
-      <configuration name="SimpleRestDemo.statusLineTest" configurationId="JUnit" />
+    <history-entry file="PathAndQueryParamAPIHomework_getASingleUser - 2019.03.12 at 14h 24m 08s.xml">
+      <configuration name="PathAndQueryParamAPIHomework.getASingleUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BaseURIDemo_culturesTest - 2019.03.09 at 16h 42m 44s.xml">
-      <configuration name="BaseURIDemo.culturesTest" configurationId="JUnit" />
+    <history-entry file="PathAndQueryParamAPIHomework_getASingleUser - 2019.03.12 at 14h 24m 23s.xml">
+      <configuration name="PathAndQueryParamAPIHomework.getASingleUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BaseURIDemo_citiesTest - 2019.03.09 at 16h 45m 13s.xml">
-      <configuration name="BaseURIDemo.citiesTest" configurationId="JUnit" />
+    <history-entry file="PathAndQueryParamAPIHomework_getASingleUser - 2019.03.12 at 14h 37m 19s.xml">
+      <configuration name="PathAndQueryParamAPIHomework.getASingleUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BaseURIDemo_citiesTest - 2019.03.09 at 16h 48m 41s.xml">
-      <configuration name="BaseURIDemo.citiesTest" configurationId="JUnit" />
+    <history-entry file="PathAndQueryParamAPIHomework_getASingleUser - 2019.03.12 at 14h 43m 50s.xml">
+      <configuration name="PathAndQueryParamAPIHomework.getASingleUser" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1440" height="832" extended-state="6" />
+    <frame x="23" y="66" width="1440" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -289,7 +365,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32972974" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.32972974" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -301,7 +377,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Maven" weight="0.3297568" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -317,20 +393,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/SimpleRestDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/BaseURIDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="50" column="54" lean-forward="true" selection-start-line="50" selection-start-column="54" selection-end-line="50" selection-end-column="54" />
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/BaseURIDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/PathParamExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        <state relative-caret-position="404">
+          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/SimpleRestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="692">
+          <caret line="50" column="54" selection-start-line="50" selection-start-column="54" selection-end-line="50" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/ExercisePractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="31" column="56" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/PathAndQueryParamAPIHomework.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="58" lean-forward="true" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/HamcrestMatchersDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
