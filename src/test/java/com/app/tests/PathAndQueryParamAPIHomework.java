@@ -1,6 +1,7 @@
 package com.app.tests;
 
 import io.restassured.RestAssured;
+import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import org.junit.BeforeClass;
 import org.junit.Test;
@@ -17,20 +18,21 @@ public class PathAndQueryParamAPIHomework {
     @Test
     public void getASingleUser(){
 
-            given().pathParam("username","zolotoi").
+            given().pathParam("username","zolotoi").queryParam("type", "member").
 
-            when().get("/users/{username}").prettyPrint();
+            when().get("/users/{username}/repos").prettyPrint();
 
-
-
-
+    }
 
 
 
+    @Test
+    public void reverseString(){
+        String str = "sergius";
 
-
-
-
+        for(int i = str.length()-1; i>=0; i--){
+            System.out.print(str.charAt(i));
+        }
     }
 
 

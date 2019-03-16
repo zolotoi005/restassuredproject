@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1689fbc7-f87b-4134-a5f7-419892c0fb0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/app/tests/ExercisePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/app/tests/HamcrestMatchersDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/app/tests/PathAndQueryParamAPIHomework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/app/tests/PathParamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/app/tests/AuthenticationExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/app/tests/RelaxedHttpsValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/app/tests/StatusCodeValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/app/tests/TestAssuredLoggingExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/app/tests/BaseURIDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/app/tests/BaseURIDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/app/tests/PathAndQueryParamAPIHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/app/tests/PathAndQueryParamAPIHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/app/tests/HamcrestMatchersDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/app/tests/HamcrestMatchersDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/app/tests/PathAndQueryParamAPIHomework.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/app/tests/PathAndQueryParamAPIHomework.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,8 +33,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/SimpleRestDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="692">
-              <caret line="50" column="54" selection-start-line="50" selection-start-column="54" selection-end-line="50" selection-end-column="54" />
+            <state relative-caret-position="197">
+              <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="70" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/BaseURIDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="120">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,10 +55,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/PathParamExample.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/RelaxedHttpsValidation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+            <state relative-caret-position="195">
+              <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/AuthenticationExamples.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="64" lean-forward="true" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,8 +81,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/PathAndQueryParamAPIHomework.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="58" lean-forward="true" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+            <state relative-caret-position="239">
+              <caret line="33" column="44" lean-forward="true" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#184#185#0" expanded="true" />
@@ -79,11 +92,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/HamcrestMatchersDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+            <state relative-caret-position="299">
+              <caret line="56" column="55" selection-start-line="56" selection-start-column="55" selection-end-line="56" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1362#1370#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/TestAssuredLoggingExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/StatusCodeValidation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,8 +161,12 @@
         <option value="$PROJECT_DIR$/src/test/java/com/app/tests/BaseURIDemo.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/app/tests/ExercisePractice.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/app/tests/PathParamExample.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/app/tests/PathAndQueryParamAPIHomework.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/app/tests/HamcrestMatchersDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/app/tests/TestAssuredLoggingExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/app/tests/StatusCodeValidation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/app/tests/PathAndQueryParamAPIHomework.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/app/tests/RelaxedHttpsValidation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/app/tests/AuthenticationExamples.java" />
       </list>
     </option>
   </component>
@@ -147,8 +189,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="23" />
-    <option name="y" value="66" />
+    <option name="x" value="31" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="832" />
   </component>
@@ -200,7 +242,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552433881851" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552751929530" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -218,7 +260,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PathAndQueryParamAPIHomework.getASingleUser">
+  <component name="RunManager" selected="JUnit.AuthenticationExamples.usingApiKey">
+    <configuration name="AuthenticationExamples.usingApiKey" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restassuredproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.app.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.app.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.app.tests.AuthenticationExamples" />
+      <option name="METHOD_NAME" value="usingApiKey" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PathAndQueryParamAPIHomework.getASingleUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="restassuredproject" />
       <extension name="coverage">
@@ -235,7 +293,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PathAndQueryParamAPIHomework.listUserRepo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PathAndQueryParamAPIHomework.reverseString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="restassuredproject" />
       <extension name="coverage">
         <pattern>
@@ -245,13 +303,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.app.tests" />
       <option name="MAIN_CLASS_NAME" value="com.app.tests.PathAndQueryParamAPIHomework" />
-      <option name="METHOD_NAME" value="listUserRepo" />
+      <option name="METHOD_NAME" value="reverseString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PathParamExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RelaxedHttpsValidation.relax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="restassuredproject" />
       <extension name="coverage">
         <pattern>
@@ -260,29 +318,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.app.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.app.tests.PathParamExample" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PathParamExample.getCharacterById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="restassuredproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.app.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.app.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.app.tests.PathParamExample" />
-      <option name="METHOD_NAME" value="getCharacterById" />
+      <option name="MAIN_CLASS_NAME" value="com.app.tests.RelaxedHttpsValidation" />
+      <option name="METHOD_NAME" value="relax" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PathParamExample.getCharacterByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StatusCodeValidation.notFoundTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="restassuredproject" />
       <extension name="coverage">
         <pattern>
@@ -291,8 +334,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.app.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.app.tests.PathParamExample" />
-      <option name="METHOD_NAME" value="getCharacterByName" />
+      <option name="MAIN_CLASS_NAME" value="com.app.tests.StatusCodeValidation" />
+      <option name="METHOD_NAME" value="notFoundTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -300,11 +343,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AuthenticationExamples.usingApiKey" />
+        <item itemvalue="JUnit.RelaxedHttpsValidation.relax" />
+        <item itemvalue="JUnit.PathAndQueryParamAPIHomework.reverseString" />
         <item itemvalue="JUnit.PathAndQueryParamAPIHomework.getASingleUser" />
-        <item itemvalue="JUnit.PathAndQueryParamAPIHomework.listUserRepo" />
-        <item itemvalue="JUnit.PathParamExample" />
-        <item itemvalue="JUnit.PathParamExample.getCharacterById" />
-        <item itemvalue="JUnit.PathParamExample.getCharacterByName" />
+        <item itemvalue="JUnit.StatusCodeValidation.notFoundTest" />
       </list>
     </recent_temporary>
   </component>
@@ -322,40 +365,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PathParamExample - 2019.03.10 at 15h 32m 35s.xml">
-      <configuration name="PathParamExample" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PathAndQueryParamAPIHomework_getASingleUser - 2019.03.12 at 13h 45m 09s.xml">
+    <history-entry file="PathAndQueryParamAPIHomework_getASingleUser - 2019.03.13 at 11h 24m 35s.xml">
       <configuration name="PathAndQueryParamAPIHomework.getASingleUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PathAndQueryParamAPIHomework_getASingleUser - 2019.03.12 at 13h 47m 59s.xml">
-      <configuration name="PathAndQueryParamAPIHomework.getASingleUser" configurationId="JUnit" />
+    <history-entry file="PathAndQueryParamAPIHomework_reverseString - 2019.03.13 at 22h 21m 37s.xml">
+      <configuration name="PathAndQueryParamAPIHomework.reverseString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PathAndQueryParamAPIHomework_getASingleUser - 2019.03.12 at 13h 49m 17s.xml">
-      <configuration name="PathAndQueryParamAPIHomework.getASingleUser" configurationId="JUnit" />
+    <history-entry file="PathAndQueryParamAPIHomework_reverseString - 2019.03.13 at 22h 22m 52s.xml">
+      <configuration name="PathAndQueryParamAPIHomework.reverseString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PathAndQueryParamAPIHomework_listUserRepo - 2019.03.12 at 13h 56m 04s.xml">
-      <configuration name="PathAndQueryParamAPIHomework.listUserRepo" configurationId="JUnit" />
+    <history-entry file="PathAndQueryParamAPIHomework_reverseString - 2019.03.13 at 22h 24m 06s.xml">
+      <configuration name="PathAndQueryParamAPIHomework.reverseString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PathAndQueryParamAPIHomework_getASingleUser - 2019.03.12 at 14h 23m 30s.xml">
-      <configuration name="PathAndQueryParamAPIHomework.getASingleUser" configurationId="JUnit" />
+    <history-entry file="PathAndQueryParamAPIHomework_reverseString - 2019.03.13 at 22h 24m 53s.xml">
+      <configuration name="PathAndQueryParamAPIHomework.reverseString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PathAndQueryParamAPIHomework_getASingleUser - 2019.03.12 at 14h 24m 08s.xml">
-      <configuration name="PathAndQueryParamAPIHomework.getASingleUser" configurationId="JUnit" />
+    <history-entry file="RelaxedHttpsValidation_relax - 2019.03.16 at 11h 31m 06s.xml">
+      <configuration name="RelaxedHttpsValidation.relax" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PathAndQueryParamAPIHomework_getASingleUser - 2019.03.12 at 14h 24m 23s.xml">
-      <configuration name="PathAndQueryParamAPIHomework.getASingleUser" configurationId="JUnit" />
+    <history-entry file="RelaxedHttpsValidation_relax - 2019.03.16 at 11h 31m 43s.xml">
+      <configuration name="RelaxedHttpsValidation.relax" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PathAndQueryParamAPIHomework_getASingleUser - 2019.03.12 at 14h 37m 19s.xml">
-      <configuration name="PathAndQueryParamAPIHomework.getASingleUser" configurationId="JUnit" />
+    <history-entry file="RelaxedHttpsValidation_relax - 2019.03.16 at 11h 34m 04s.xml">
+      <configuration name="RelaxedHttpsValidation.relax" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PathAndQueryParamAPIHomework_getASingleUser - 2019.03.12 at 14h 43m 50s.xml">
-      <configuration name="PathAndQueryParamAPIHomework.getASingleUser" configurationId="JUnit" />
+    <history-entry file="AuthenticationExamples_usingApiKey - 2019.03.16 at 11h 55m 13s.xml">
+      <configuration name="AuthenticationExamples.usingApiKey" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AuthenticationExamples_usingApiKey - 2019.03.16 at 11h 58m 44s.xml">
+      <configuration name="AuthenticationExamples.usingApiKey" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="23" y="66" width="1440" height="832" extended-state="0" />
-    <editor active="true" />
+    <frame x="31" y="23" width="1440" height="832" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -386,23 +428,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/BaseURIDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/PathParamExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
@@ -413,12 +438,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/SimpleRestDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/TestAssuredLoggingExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="692">
-          <caret line="50" column="54" selection-start-line="50" selection-start-column="54" selection-end-line="50" selection-end-column="54" />
+        <state relative-caret-position="405">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/HamcrestMatchersDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="56" column="55" selection-start-line="56" selection-start-column="55" selection-end-line="56" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1362#1370#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -433,10 +469,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/SimpleRestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/StatusCodeValidation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/PathAndQueryParamAPIHomework.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="58" lean-forward="true" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+        <state relative-caret-position="239">
+          <caret line="33" column="44" lean-forward="true" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#184#185#0" expanded="true" />
@@ -445,10 +501,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/HamcrestMatchersDemo.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        <state relative-caret-position="330">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/BaseURIDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/RelaxedHttpsValidation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/app/tests/AuthenticationExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="64" lean-forward="true" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
